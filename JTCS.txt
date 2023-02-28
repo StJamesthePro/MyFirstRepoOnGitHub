@@ -1,4 +1,3 @@
-Julian's Cheat Sheet
 
 pwd= Print Working Directory (find out where you are in the file system)
 cd= Go to a directory (change location so you can access files in THAT directory)
