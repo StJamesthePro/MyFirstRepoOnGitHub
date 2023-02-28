@@ -10,3 +10,4 @@ open= open the associated application of a file you select
 echo= put something in a file you create as it is created. (Type a text or insert a pic or w/e before opening the file so now it is in the file immediately)
 code= open the associated file in your IDE
 git status= ask git about the current state of the repository
+>>= add text >= overwrite text
