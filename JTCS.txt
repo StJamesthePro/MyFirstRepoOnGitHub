@@ -1,4 +1,3 @@
-
 pwd= Print Working Directory (find out where you are in the file system)
 cd= Go to a directory (change location so you can access files in THAT directory)
 ls= List the Contents of That Directory (see what files are in the current directory)
@@ -10,3 +9,4 @@ cat= print the contents of a file (see what's in a file WITHOUT opening another 
 open= open the associated application of a file you select
 echo= put something in a file you create as it is created. (Type a text or insert a pic or w/e before opening the file so now it is in the file immediately)
 code= open the associated file in your IDE
+git status= ask git about the current state of the repository
