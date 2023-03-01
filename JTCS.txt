@@ -14,6 +14,7 @@ git status= ask git about the current state of the repository
 >= overwrite text
 git add .= set ups commit
 git commit -m= green lights commit and allows you to create a memo for next user or session
+git push --all -u= push the commited file to the github
 git branch= display available branches and show current branch
 git checkout (branch name)= switch to 'branch name'
 git log= display working log of past modifications to hub 
