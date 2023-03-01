@@ -1,5 +1,5 @@
 pwd= Print Working Directory (find out where you are in the file system)
 cd= Go to a directory (change location so you can access files in THAT directory)
 ls= List the Contents of That Directory (see what files are in the current directory)
-mv= Move or rename a file or directory 
+mv= Move or rename a file or directory
 rm= Remove a directory
