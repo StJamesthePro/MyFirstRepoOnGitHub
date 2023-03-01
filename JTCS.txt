@@ -15,6 +15,8 @@ git status= ask git about the current state of the repository
 git add .= set ups commit
 git commit -m= green lights commit and allows you to create a memo for next user or session
 git push --all -u= push the commited file to the github
+git checkout master +
+git merge "branch name"= copys the commits and applys the changes to the working tree
 git branch= display available branches and show current branch
 git checkout (branch name)= switch to 'branch name'
 git log= display working log of past modifications to hub 
